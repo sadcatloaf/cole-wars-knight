@@ -1,0 +1,26 @@
+body {
+    background-color: antiquewhite;
+
+}
+
+h2 {
+
+    font-size: smaller;
+}
+
+.green {
+    color: #03AC13;
+}
+
+.bg-hero {
+
+    background-size: cover;
+    min-height: 50dvh;
+    background-image: url(https://wallpapercave.com/wp/wp2632423.jpg);
+
+}
+
+.main img {
+    height: 25em;
+
+}
